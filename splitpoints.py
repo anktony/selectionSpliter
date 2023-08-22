@@ -53,7 +53,6 @@
         ("02:23:53", "02:25:23", "Tupinambá.aac"),
         ("02:25:24", "02:27:47", "Mamãe Jurema.aac"),
         ("02:27:47", "02:28:54", "Foi numa tarde serena.aac"),
-        ("02:28:54", "02:28:54", "Foi numa tarde serena.aac"),
         ("02:28:54", "02:30:01", "tava na beira do rio.aac"),
         ("02:30:05", "02:32:17", "vou chamar todos camaradas.aac"),
         ("02:32:32", "02:34:35", "haux com pajé.aac"),
